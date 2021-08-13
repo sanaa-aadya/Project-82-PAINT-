@@ -1,0 +1,29 @@
+.body_background{
+    background-image: url("https://wallpapercave.com/wp/wp2610908.jpg");
+    background-image: center;
+    background-size: cover;
+}
+body{
+    cursor:pointer;
+
+}
+h1{
+    background-color: rgb(167, 167, 95);
+    border-style: dotted;
+}
+#myCanvas{
+   border-width: 10px;
+   background-color: white;
+   border-style: ridge;
+
+}
+button{
+    background-color: violet;
+font-size: 17px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+padding: 10px 42px;
+
+}
+input{
+    margin-right: 20px;
+}
